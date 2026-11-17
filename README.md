@@ -7,7 +7,7 @@
 
 Stereo 3D · head and position tracking · first person · in-headset settings panel · any OpenXR headset
 
-![version](https://img.shields.io/badge/version-1.0.5-c0392b) ![game](https://img.shields.io/badge/game-The%20Witcher%202%20EE-222) ![xr](https://img.shields.io/badge/OpenXR-SteamVR%20%7C%20Pimax%20%7C%20Quest%20%7C%20VDXR%20%7C%20WMR-555)
+![version](https://img.shields.io/badge/version-1.0.8-c0392b) ![game](https://img.shields.io/badge/game-The%20Witcher%202%20EE-222) ![xr](https://img.shields.io/badge/OpenXR-SteamVR%20%7C%20Pimax%20%7C%20Quest%20%7C%20VDXR%20%7C%20WMR-555)
 
 </div>
 
