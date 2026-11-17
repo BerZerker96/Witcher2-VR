@@ -21,7 +21,7 @@ Stereo 3D · head and position tracking · first person · in-headset settings p
 
 1. Copy everything inside the `mod` folder into `The Witcher 2\bin` (next to `witcher2.exe`).
 2. **Skip the launcher:** double-click `W2VR_SkipLauncher_Install.bat` there once. From now on, **Play** in Steam or GOG goes straight into the game and VR, with no launcher window. Hold **SHIFT** while pressing Play to get the original launcher (Configurator, DLC). `W2VR_SkipLauncher_Uninstall.bat` puts it back.
-3. **Game settings (once):** hold **SHIFT** while pressing Play to open the original launcher, then open the **Configurator** and set:
+3. **Game settings (once): open the **Configurator** and set:
    - **AllowDecals:** **Medium** or **Disabled**. Decals are blood and hit splatter. On **High** they slow fights down in VR.
    - **TextureMemoryBudget:** **VeryHighBudget**. The mod sets this for you too.
 4. Start your VR software (Pimax Play, SteamVR, Virtual Desktop, Oculus …), then start the game. VR starts by itself.
