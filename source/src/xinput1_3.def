@@ -1,0 +1,19 @@
+LIBRARY xinput1_3.dll
+EXPORTS
+    XInputGetState = Proxy_0 @2
+    XInputSetState = Proxy_1 @3
+    XInputGetCapabilities = Proxy_2 @4
+    XInputEnable = Proxy_3 @5
+    XInputGetDSoundAudioDeviceGuids = Proxy_4 @6
+    XInputGetBatteryInformation = Proxy_5 @7
+    XInputGetKeystroke = Proxy_6 @8
+    XInputOrd100 = Proxy_7 @100 NONAME
+    XInputOrd101 = Proxy_8 @101 NONAME
+    XInputOrd102 = Proxy_9 @102 NONAME
+    XInputOrd103 = Proxy_10 @103 NONAME
+    W2VR_TestCameraMath@4 = W2VR_TestCameraMath@4 @200 NONAME
+    W2VR_TestSetup@24 = W2VR_TestSetup@24 @201 NONAME
+    W2VR_TestLastEye@4 = W2VR_TestLastEye@4 @202 NONAME
+    W2VR_TestSameTickSetup@12 = W2VR_TestSameTickSetup@12 @203 NONAME
+    W2VR_TestSameTickEye@0 = W2VR_TestSameTickEye@0 @204 NONAME
+    W2VR_TestFullStereo@8 = W2VR_TestFullStereo@8 @205 NONAME
