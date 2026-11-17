@@ -125,7 +125,7 @@ The `source` folder holds the full source. Build with MinGW-w64: `source/scripts
 
 | Who | What |
 |---|---|
-| **mark-mon** | Dragon Age II VR framework these mods are built on: XrBridge OpenXR host, vrkit VR panel, proxy loader |
+| **mark-mon** | VR framework these mods are built on: XrBridge OpenXR host, vrkit VR panel, proxy loader |
 | **TefMeister** | witcher-2-vr research: SteamStub, camera axes, User.ini keys, render thread |
 | **The Witcher 2 6DOF head-tracking mod** | The camera hook site |
 | **praydog / UEVR** | The synchronized-sequential AER idea behind same-tick |
