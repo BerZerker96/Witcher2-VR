@@ -1,7 +1,7 @@
 <img width="2047" height="1152" alt="1794818480005" src="https://github.com/user-attachments/assets/25adb821-f23c-4fce-aa6f-39c5269b2b8c" />
 <div align="center">
 
-# 🐺 The Witcher 2 VR (W2VR)
+# 🐺 The Witcher 2 VR (W2VR) Steam\Gog 
 
 **VR for The Witcher 2: Assassins of Kings – Enhanced Edition on PC**
 
