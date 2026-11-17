@@ -33,8 +33,6 @@ Stereo 3D · head and position tracking · first person · in-headset settings p
 
 To uninstall, delete the copied files and the `W2VR` folder. Your original settings are kept in `Documents\Witcher 2\Config\User.ini.w2vr_backup`.
 
-> Remove other head-tracking mods (`TheWitcher2-HeadTracking.asi`) while playing in VR. They move the same camera.
-
 ---
 
 ## 🎮 Controls
@@ -81,13 +79,11 @@ Pick one in **View > Stereo method**. You can switch while playing.
 
 - **Real 3D with head tracking.** Your head moves the game's own camera, so lighting, shadows and culling are right for each eye.
 - **Sharp picture.** Full-resolution textures, 16× anisotropic filtering and the game's sharpen. Depth of field, motion blur, vignette and the game's soft anti-aliasing are off.
-- **Correct textures and materials.** Metal, eyes and blood look as they should.
 - **First person** (`End`), with adjustable position.
 - **No black edges:** edge fill stretches the picture's edge outward, smooth, a few degrees beyond your view. When fps dips and the headset re-projects an older frame, you see that instead of black.
 - **Decoupled pitch:** the camera stays level and you look up and down with your head (less motion sickness).
 - **HUD and menus on a floating panel** that follows your head, with adjustable size, distance and transparency.
 - **Gamepad works** in VR, even when the game window isn't focused.
-- **No combat slow-downs from the mod:** buffers the game rewrites every frame (blood, hit effects, damage numbers) never make the frame wait for the graphics card.
 - **Smooth frame pacing:** a frame cap at your headset's refresh rate.
 - **Menus, loading screens and videos** on a flat virtual screen.
 
