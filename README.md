@@ -1,3 +1,4 @@
+<img width="2047" height="1152" alt="1794818480005" src="https://github.com/user-attachments/assets/25adb821-f23c-4fce-aa6f-39c5269b2b8c" />
 <div align="center">
 
 # 🐺 The Witcher 2 VR (W2VR)
@@ -10,6 +11,10 @@ Stereo 3D · head and position tracking · first person · in-headset settings p
 
 </div>
 
+<img width="4795" height="1601" alt="w2" src="https://github.com/user-attachments/assets/2d8bf8c3-e425-490c-9f73-bbe3b0e28825" />
+
+
+
 ---
 
 ## 📦 Install
@@ -20,6 +25,9 @@ Stereo 3D · head and position tracking · first person · in-headset settings p
    - **AllowDecals:** **Medium** or **Disabled**. Decals are blood and hit splatter. On **High** they slow fights down in VR.
    - **TextureMemoryBudget:** **VeryHighBudget**. The mod sets this for you too.
 4. Start your VR software (Pimax Play, SteamVR, Virtual Desktop, Oculus …), then start the game. VR starts by itself.
+
+<img width="397" height="662" alt="2026-11-17 03_16_21-Configurator" src="https://github.com/user-attachments/assets/56fa622e-e369-4c15-903a-c526f7f4f97c" />
+
 
 **Game hangs on the medallion screen?** (only on CPUs with 32+ threads) Start the game with `W2VR_Launch.bat` instead. It launches straight into the game and VR, limited to 16 threads.
 
@@ -122,9 +130,7 @@ The `source` folder holds the full source. Build with MinGW-w64: `source/scripts
 | Who | What |
 |---|---|
 | **mark-mon** | Dragon Age II VR framework these mods are built on: XrBridge OpenXR host, vrkit VR panel, proxy loader |
-| **Assassin's Creed Ezio Trilogy VR (AC2VR)** | The VR framework, stereo methods and same-tick AER this mod is ported from |
 | **TefMeister** | witcher-2-vr research: SteamStub, camera axes, User.ini keys, render thread |
-| **Heebo** and the free-camera table authors | Witcher 2 Cheat Engine camera tables |
 | **The Witcher 2 6DOF head-tracking mod** | The camera hook site |
 | **praydog / UEVR** | The synchronized-sequential AER idea behind same-tick |
 | **crosire / ReShade** | The 2016 fix that showed why metal and eyes rendered in the wrong colours |
